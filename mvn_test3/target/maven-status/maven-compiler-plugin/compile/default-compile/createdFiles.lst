@@ -1,0 +1,7 @@
+com\glob\hadoop\mr\MaxTemperatureReducer.class
+com\glob\hadoop\mr\MaxTemperatureWithCompression.class
+com\glob\App.class
+com\glob\hadoop\mr\MaxTemperatrueMapper.class
+com\glob\hadoop\test_compress\CompressFactory$1.class
+com\glob\hadoop\HadoopCodec.class
+com\glob\hadoop\test_compress\CompressFactory.class
